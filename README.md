@@ -35,3 +35,4 @@
 - Titanium Backers?
 - Lightweight gantry X beam?
 - Lubrication screws on rails?
+- [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
