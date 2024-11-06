@@ -2,6 +2,7 @@
 
 ## General Features
 - Voron Trident 300
+- X-Rail carriage is MGN12H (350mm rail)
 - Will run [Danger Klipper](https://dangerklipper.io/)
 - 300x300x??? build volume
 - 300x300mm 750W 110V silicone bed heater
